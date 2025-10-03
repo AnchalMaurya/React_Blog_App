@@ -29,19 +29,12 @@ Users can create, read, update, and delete blog posts. It’s designed for learn
 blog-app/
 
 │── public/           # Static files
-
 │── src/
-
 │   ├── components/   # Reusable UI components
-
 │   ├── pages/        # Different pages (Home, Create, Blog Details)
-
 │   ├── App.js        # Main app file
-
 │   ├── index.js      # Entry point
-
 │── package.json
-
 │── README.md
 
 
