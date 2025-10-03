@@ -29,12 +29,19 @@ Users can create, read, update, and delete blog posts. It’s designed for learn
 blog-app/
 
 │── public/           # Static files
+
 │── src/
+
 │   ├── components/   # Reusable UI components
+
 │   ├── pages/        # Different pages (Home, Create, Blog Details)
+
 │   ├── App.js        # Main app file
+
 │   ├── index.js      # Entry point
+
 │── package.json
+
 │── README.md
 
 
@@ -42,23 +49,19 @@ blog-app/
 
 Clone the repo
 
-git clone https://github.com/your-username/blog-app.git
-
+git clone https://github.com/AnchalMaurya/blog-app.git
 
 Move into project folder
 
 cd blog-app
 
-
 Install dependencies
 
 npm install
 
-
 Start the development server
 
 npm start
-
 
 Open in browser
 
